@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=anikalp1&](https://github-readme-streak-stats.herokuapp.com/?user=Ansh411&)" alt="Ansh411" /></p>
-
-[![@anikalp_1's Holopin board](https://holopin.me/anikalp_1)](https://holopin.io/@anikalp_1)
+<p><img align="center" src="[https://streak-stats.demolab.com/?user=Ansh411&theme=light])" alt="Ansh411" /></p>
