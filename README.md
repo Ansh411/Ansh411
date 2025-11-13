@@ -6,9 +6,9 @@
 
 
 
-<p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/anikalpjaiswal?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
+<p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/Ansh Gupta?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
 
-- 👨‍💻 All about me ||  [My Portfolio](Working on it ..)
+- 👨‍💻 All about me ||  [My Portfolio](  Working on it ..)
 
 - 💬 Ask me about **Full-Stack development**
 
@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh411&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ansh411)](https://git.io/streak-stats)
 
