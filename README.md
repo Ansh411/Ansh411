@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p>
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh411&theme=gruvbox)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh411&theme=gruvbox)](https://git.io/streak-stats)
 
