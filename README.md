@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/Ansh Gupta?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
+<p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/Ansh%20Gupta?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
 
 - 👨‍💻 All about me ||  [My Portfolio](  Working on it ..)
 
@@ -29,5 +29,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ansh411)](https://git.io/streak-stats)
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
