@@ -29,9 +29,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p><br>
 
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh411&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=dark&hide_border=false)<br/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
