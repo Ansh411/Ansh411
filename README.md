@@ -27,6 +27,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ansh411&show_icons=true&locale=en&layout=compact" alt="Ansh411" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh411&show_icons=true&locale=en" alt="Ansh411" /></p><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh411&theme=gruvbox)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh411&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
