@@ -1,15 +1,9 @@
-<p align="center">
-  <a href="https://github.com/Ansh411">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RqY3h0NGIwbDdoNTd5NDZyYTQxanRhODY4cjVxNm5xd3BrZ3NqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2kwFNl90JaxqliyO7/giphy.gif" 
-         alt="MasterHead"
-         width="800">
-  </a>
-</p>
+
 
 
 <h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
+<img align="right" alt="Coding" width="400" src="https://iili.io/fFqtSoJ.md.jpg">
 
 
 
