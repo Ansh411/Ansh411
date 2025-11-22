@@ -6,7 +6,7 @@
   </a>
 </p>
 
-
+[![4aQQA9.3839931.md.jpeg](https://i.im.ge/2025/11/23/4aQQA9.3839931.md.jpeg)](https://im.ge/i/3839931.4aQQA9)
 
 <h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
