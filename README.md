@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ansh411">
-    <img src="https://i.im.ge/2025/11/23/4sezRD.cyberpunk-city-7415576.jpeg" 
+    <img src="https://i.im.ge/2025/11/23/4aoSzP.cyberpunk-city-7415576-1-1.jpeg" 
          alt="MasterHead"
          width="800">
   </a>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-&ensp; &ensp; &ensp;# 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ansh411&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh411&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
