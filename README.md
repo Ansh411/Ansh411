@@ -1,16 +1,17 @@
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/Ansh411">
-    <img src="https://iili.io/fFxQ73v.md.png" 
+    <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
          alt="MasterHead"
          width="800">
   </a>
-</p> -->
+</p> 
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Ansh411)
 
 ---
 
-<!-- https://iili.io/fFBI90Q.jpg -->
+<!-- https://iili.io/fFBI90Q.jpg Side
+ Header https://iili.io/fFxQ73v.md.png-->
 
 <h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
