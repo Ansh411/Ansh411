@@ -10,10 +10,11 @@
 
 ---
 
+<!-- https://iili.io/fFBI90Q.jpg -->
 
 <h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://iili.io/fFBI90Q.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
 
@@ -73,10 +74,4 @@
 <br clear="center"/>
 
 ---
-
-<div align="left">
-  
-[![](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
-
-</div>
 
