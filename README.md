@@ -10,7 +10,7 @@
 
 <h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://i.im.ge/2025/11/23/4aQQA9.3839931.jpeg">
+<img align="right" alt="Coding" width="400" src="https://iili.io/fFCLu6l.md.jpg">
 
 
 
