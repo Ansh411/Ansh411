@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Ansh411">
     <img src="https://iili.io/fFxQ73v.md.png" 
          alt="MasterHead"
          width="800">
   </a>
-</p>
+</p> -->
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Ansh411)
 
