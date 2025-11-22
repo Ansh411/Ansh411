@@ -1,4 +1,4 @@
-[![MasterHead](https://iili.io/fFKipbR.md.gif)](https://github.com/Ansh411)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RqY3h0NGIwbDdoNTd5NDZyYTQxanRhODY4cjVxNm5xd3BrZ3NqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2kwFNl90JaxqliyO7/giphy.gif)](https://github.com/Ansh411)
 
 
 <h1 align="center">Hello 👋, I'm Ansh Guptal</h1>
