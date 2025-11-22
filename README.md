@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ansh411">
-    <img src="https://iili.io/fFxQ73v.md.png" 
+    <img src="https://iili.io/fFzJs1I.md.jpg" 
          alt="MasterHead"
          width="800">
   </a>
