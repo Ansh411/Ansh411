@@ -59,7 +59,7 @@
 </div> -->
 
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <div align="center">
   <img 
