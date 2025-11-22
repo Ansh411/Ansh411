@@ -70,7 +70,7 @@
     src="https://github-contributor-stats.vercel.app/api?username=Ansh411&limit=5&theme=date_night&combine_all_yearly_contributions=true"
   />
 </div>
-
+<br clear="center"/>
 ---
 <div align="left">
   
