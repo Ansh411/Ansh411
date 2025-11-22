@@ -1,4 +1,11 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RqY3h0NGIwbDdoNTd5NDZyYTQxanRhODY4cjVxNm5xd3BrZ3NqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2kwFNl90JaxqliyO7/giphy.gif)](https://github.com/Ansh411)
+<p align="center">
+  <a href="https://github.com/Ansh411">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RqY3h0NGIwbDdoNTd5NDZyYTQxanRhODY4cjVxNm5xd3BrZ3NqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2kwFNl90JaxqliyO7/giphy.gif" 
+         alt="MasterHead"
+         width="800"
+         height="auto">
+  </a>
+</p>
 
 
 <h1 align="center">Hello 👋, I'm Ansh Guptal</h1>
