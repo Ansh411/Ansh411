@@ -5,8 +5,6 @@
          width="800">
   </a>
 </p>
-![studio-4800295_1920](https://github.com/user-attachments/assets/686317e5-2ad8-49b5-ab72-aa029b9c1a3d)
-
 
 
 
