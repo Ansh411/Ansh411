@@ -51,12 +51,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh411&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     height="180"
   />
-</div>
+</div> -->
 
 <br/>
 
