@@ -37,19 +37,17 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ansh411&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=date_night&hide_border=false" height="180"/>
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ansh411&theme=date_night&hide_border=false&include_all_commits=true&count_private=true"
-    height="180" 
-  />
-
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=date_night&hide_border=false"
-    height="180" 
-  />
-
-</div>
 
 <br/>
 
