@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ansh411">
-    <img src="https://iili.io/fFBXS87.md.jpg" 
+    <img src="https://i.im.ge/2025/11/23/4sezRD.cyberpunk-city-7415576.jpeg" 
          alt="MasterHead"
          width="800">
   </a>
