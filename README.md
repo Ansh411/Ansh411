@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/Ansh%20Gupta?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
 
-- 👨‍💻 All about me ||  **[My Portfolio]** : *Working on it...* 
+- 👨‍💻 All about me ||  **My Portfolio** : *Working on it...* 
 
 - 💬 Ask me about **Full-Stack development**
 
