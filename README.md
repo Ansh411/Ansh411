@@ -65,7 +65,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Ansh411&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=ocean_dark&hide_border=false" height="180"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=midnight-purple&hide_border=false" height="180"/>
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@
 
 <div align="center">
   <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Ansh411&limit=5&theme=date_night&combine_all_yearly_contributions=true"
+    src="https://github-contributor-stats.vercel.app/api?username=Ansh411&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
   />
 </div>
 <br clear="center"/>
