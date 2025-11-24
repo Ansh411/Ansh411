@@ -35,8 +35,7 @@
 <a href="https://www.codechef.com/users/ansh_411" target="blank"><img src="https://github.com/Anikalp1/CodeChefMMMUTChapter/blob/main/assets/CodeChef.png" alt="ansh_411" height="40" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100007831008889" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Ansh Gupta" height="40" width="40" /></a>
 </p>
-https://iili.io/fFTDDE7.png
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
