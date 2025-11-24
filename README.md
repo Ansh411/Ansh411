@@ -23,7 +23,7 @@
 
 - 👨‍💻 All about me ||  **My Portfolio** : *Working on it...* 
 
-- 💬 Ask me about **Full-Stack development**
+- 💬 Ask me about **MERN-Stack Development**
 
 - 📫 How to reach me **4gansh11@gmail.com**
 
