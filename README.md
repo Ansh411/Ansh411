@@ -62,7 +62,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ansh411&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ansh411&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh411&theme=date_night&hide_border=false" height="180"/>
