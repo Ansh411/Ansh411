@@ -13,7 +13,9 @@
 <!-- https://iili.io/fFBI90Q.jpg Side
  Header https://iili.io/fFxQ73v.md.png-->
 
-<h1 align="center">Hello 👋, I'm Ansh Gupta</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Ansh+Gupta!;Welcome+to+my+GitHub+Profile!" />
+</h1>
 <h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
