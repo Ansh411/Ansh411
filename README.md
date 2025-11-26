@@ -20,18 +20,20 @@
  Header https://iili.io/fFxQ73v.md.png-->
 
 
-<h3 align="center"> Passionate and Innovative || Full-Stack Developer || Data Structures & Algorithms</h3>
+<h3 align="center"> A passionate software developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
 
 <p align="left"> <a href="https://x.com/Ansh_411" target="blank"><img src="https://img.shields.io/twitter/follow/Ansh%20Gupta?logo=twitter&style=for-the-badge" alt="Ansh411" /></a> </p>
 
-- 👨‍💻 All about me ||  **My Portfolio** : *Working on it...* 
+ 👨‍💻 All about me ||  **My Portfolio** : *Working on it...* 
 
-- 💬 Ask me about **MERN-Stack Development**
+<!--- 💬 Ask me about **MERN-Stack Development** -->
+✪ I’m currently working on **MERN** Stack Technologies
+🌱 I’m currently learning **Typescript and NextJS**
 
-- 📫 How to reach me **4gansh11@gmail.com**
+📫 How to reach me **4gansh11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
