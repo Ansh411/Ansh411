@@ -103,6 +103,8 @@
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=Ansh411&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
   />
+<img width="1014" height="528" alt="image" src="https://github.com/user-attachments/assets/4f98046c-b6bd-4a98-aa70-1ffe1820f8c5" />
+
 </div>
 <br clear="center"/>
 
