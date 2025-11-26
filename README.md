@@ -30,7 +30,7 @@
  👨‍💻 All about me ||  **My Portfolio** : *Working on it...* 
 
 <!--- 💬 Ask me about **MERN-Stack Development** -->
-✪ I’m currently working on **MERN** Stack Technologies
+✪ I’m currently working on **MERN** Stack Technologies <br/>
 🌱 I’m currently learning **Typescript and NextJS**
 
 📫 How to reach me **4gansh11@gmail.com**
