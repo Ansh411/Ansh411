@@ -106,10 +106,5 @@
 
 </div>
 <br clear="center"/>
-
-<img width="1014" height="528" alt="image" src="https://github.com/user-attachments/assets/9584a98e-0c4e-4fb9-a645-9a556fd602af" />
-
-
-
 ---
 
